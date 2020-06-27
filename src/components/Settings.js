@@ -6,7 +6,7 @@ class Settings extends React.Component {
         return (
             <View>
                 <Text>
-                    Settings
+                    Setting
                 </Text>
             </View>
         )
